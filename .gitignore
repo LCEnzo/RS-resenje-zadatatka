@@ -1,4 +1,13 @@
 *.o
+*.exe
+*.dll
+
+# Qt files
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
 *.pro
 *.pro.user
-build.*/*
+
+
+build.*/
